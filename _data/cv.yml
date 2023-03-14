@@ -1,0 +1,93 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xuejing Lei (Rachel)
+    - name: Background
+      value: Electrical Engineering, Artificial Intelligence, Machine Learning
+    - name: Languages
+      value: English, Chinese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical Engineering
+      institution: University of Southern California, Los Angeles, US
+      year: Now
+      description:
+        - title: Signal and Image Processing Institute
+          contents:
+            - Media Communication Labs
+            - Supervised by Prof. C.-C. Jay Kuo
+        - "Green Image Generative Models: Theory, Algorithms and Applications"
+
+    - title: M. Sc. in Electrical Engineering 
+      institution: University of Southern California, Los Angeles, US
+      year: 2018
+      description:
+        - Signal Processing, Image Processing, Machine Learning
+
+    - title: B. Eng. in Automation
+      institution: Xi'an Jiao Tong University, Xi'an, China
+      year: 2016
+      description:
+        - Three-year Siyuan Fellowship
+        - Vice President of the Student Union 
+        - Exchange Student in Computer Science at Taiwan Chiao Tung University
+        - Thesis Supervised by Prof. Zuren Feng
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Media Communications Lab at USC & MediaTek, Los Angeles, US
+      year: 2018 - Now
+      description:
+        - Generative Models for Texture Synthesis, Natural Image Generation, Style Transfer, Domain Generalization
+        - Image and Video Super-Resolution
+        - Noise-Aware Texture-Preserving Low-Light Enhancement
+        
+    - title: Compute Silicon Architect Intern (Research)
+      institution: Facebook/Meta Reality Labs, Redmond, California, US
+      year: 2021
+      description:
+        - Texture Data Compression for AR/VR
+
+    - title: Research Intern
+      institution: Media Communications Lab at USC, Los Angeles, US
+      year: 2017-2018
+      description:
+        - Online Video Multi-object Tracking
+        - Video Object Segmentation
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2016
+      items: 
+        - First Prize in Intel Cup Embedded System Design Contest
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
