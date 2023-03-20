@@ -60,6 +60,31 @@
         - Online Video Multi-object Tracking
         - Video Object Segmentation
 
+- title: Teaching Assistant
+  type: time_table
+  contents:
+    - year: 2022-2023
+      institution: University of Southern California
+      items: 
+        - "EE450: Introduction to Computer Networks, Dr. Ali Zahid, Spring 2023"
+        - "EE450: Introduction to Computer Networks, Dr. Ali Zahid, Fall 2022"
+    
+    - year: 2020-2021
+      institution: University of Southern California
+      items:
+        - "EE450: Introduction to Computer Networks, Prof. Cauligi Raghavendra, Spring 2021"
+        - "EE450: Introduction to Computer Networks, Dr. Ali Zahid, Fall 2020"
+
+    - year: 2019-2020
+      institution: University of Southern California
+      items:
+        - "EE355: Software Design for Electrical Engineers, Prof. Shahin Nazarian, Spring 2020"
+
+    - year: 2018-2019
+      institution: University of Southern California
+      items:
+        - "EE599: Software Design and Optimization for Electrical Engineers, Prof. Shahin Nazarian, Spring 2019"
+
 
 - title: Honors and Awards
   type: time_table
@@ -67,6 +92,14 @@
     - year: 2016
       items: 
         - First Prize in Intel Cup Embedded System Design Contest
+    - year: 2015
+      items: 
+        - Vice President of the Student Union
+    - year: 2013-2015
+      items: 
+        - XJTU Siyuan Scholarship
+
+
 
 # - title: Open Source Projects
 #   type: time_table
